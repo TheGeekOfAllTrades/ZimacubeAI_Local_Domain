@@ -8,7 +8,7 @@
 - Compute host for DNS & Reverse proxy
 
 # **Setup the Zimacube for AI Apps**
-- Setup and log into Zimacube, get it up and running as your system. 
+- Setup and log into ZimaOS on the Zimacube, to get it up and running with your system preferences. 
 - Power down, and install RTX A2000 GPU, then power back on. 
 - Visit app store and download WebUI app
   
