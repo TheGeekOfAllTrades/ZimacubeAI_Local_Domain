@@ -1,12 +1,16 @@
 # Setup Zimacube AI with a Local Domain
 
 **What is needed for this project:**
-- Zimacube or Zimacube pro
-- Nvidia RTX A2000 12gb, RTX 2000 ADA, RTX 2000e, or similar small form factor GPU
-- PiHole DNS Service application
-- NGINX reverse proxy
-- Compute host for DNS & Reverse proxy
-
+- Zimacube or Zimacube pro [Shop Link
+](https://shop.zimaspace.com/products/zimacube-personal-cloud)
+- Nvidia RTX A2000 12gb, RTX 2000 ADA, RTX 2000e, or similar small form factor GPU [Amazon Link
+](https://amzn.to/419wso9)
+- PiHole DNS Service application [Download Link
+](https://pi-hole.net/)
+- NGINX reverse proxy [Download Link
+](https://nginx.org/)
+- Compute host for DNS & Reverse proxy [Amazon Link
+](https://amzn.to/4bcWaNa)
 # **Setup the Zimacube for AI Apps**
 - Setup and log into ZimaOS on the Zimacube, to get it up and running with your system preferences. 
 - Power down, and install RTX A2000 GPU, then power back on. 
